@@ -1,0 +1,19 @@
+package Conditional;
+
+public class task1 
+{
+	public static void main(String args[])
+	{
+		int[] arr = {1,2,3,4};
+		
+		for(int e: arr)
+		{
+			System.out.println(e);
+		}
+		
+
+//		Date today=new Date();
+//		System.out.print(today);
+	}
+
+}
