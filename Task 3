@@ -17,6 +17,7 @@ public class switchcase {
 				break;
 			default:
 				System.out.print("Not A Number");
+                dv
 			}
 		}
 	}
